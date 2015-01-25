@@ -1,3 +1,5 @@
+# This is  for demo purpose only
+
 ASP.NET MVC Basic Authentication Sample
 -----------------------------------
 This sample demonstrates a custom authentication filter with MVC. It uses the
